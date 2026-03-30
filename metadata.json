@@ -1,0 +1,5 @@
+{
+  "name": "Labuan Bajo Weather",
+  "description": "A mobile-friendly weather app for Labuan Bajo using Open-Meteo API.",
+  "requestFramePermissions": []
+}
